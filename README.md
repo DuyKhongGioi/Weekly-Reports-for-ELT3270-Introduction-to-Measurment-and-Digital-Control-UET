@@ -1,8 +1,4 @@
-Chào bạn, một file README sạch sẽ và chuyên nghiệp không chỉ giúp bạn dễ quản lý mà còn làm "đẹp" hồ sơ GitHub của bạn trong mắt nhà tuyển dụng hoặc bạn bè.
 
-Dưới đây là bản viết lại theo phong cách hiện đại, sử dụng định dạng Markdown tối ưu:
-
----
 
 #  Weekly Reports: Introduction to Measurement and Digital Control (ELT3270)
 
